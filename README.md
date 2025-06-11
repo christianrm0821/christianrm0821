@@ -18,13 +18,13 @@ With my background in both teaching and development, I bring strong communicatio
 
 ### 📜 Certifications
 
-- AWS Certified Cloud Practitioner (March 2024)  
-- Boot.dev Learn SQL (Nov 2024)  
-- Boot.dev Learn File Servers & CDNs with S3 and CloudFront (May 2025)  
-- Boot.dev Learn HTTP Clients/Servers in Go (Feb 2025)  
-- Boot.dev Learn Docker (May 2025)  
-- Boot.dev Learn CI/CD with GitHub Actions, Docker, and Go (May 2025)  
-- Boot.dev Learn Memory Management in C (Jan 2025)
+- AWS Certified Cloud Practitioner (2024)  
+- Boot.dev Learn SQL (2024)  
+- Boot.dev Learn File Servers & CDNs with S3 and CloudFront (2025)  
+- Boot.dev Learn HTTP Clients/Servers in Go (2025)  
+- Boot.dev Learn Docker (2025)  
+- Boot.dev Learn CI/CD with GitHub Actions, Docker, and Go (2025)  
+- Boot.dev Learn Memory Management in C (2025)
 
 ---
 
