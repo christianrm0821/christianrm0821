@@ -1,4 +1,4 @@
-## 👋 Aspiring Software Developer and Data Analyst
+## 👋 Data/Business Analyst
 
 With a strong foundation in mathematics and computer science from UC San Diego. Currently teaching robotics and coaching students in STEM, I thrive on solving real-world problems through code—whether that’s building efficient backend tools or analyzing data for actionable insights.
 
