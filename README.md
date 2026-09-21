@@ -18,13 +18,17 @@ With my background in both teaching and development, I bring strong communicatio
 
 ### 📜 Certifications
 
-- AWS Certified Cloud Practitioner (2024)  
+- AWS Certified Cloud Practitioner (2024)
+- Google: Process Data from Dirty to Clean (2026)
+- Google: Analyze Data to Answer Questions (2026)
+- Google: Share Data Through the Art of Visualization (2026)
+- DeepLearning.Ai: Linear Algebra for Machine Learning and Data Science (2026)
+- DeepLearning.AI: Calculus for Machine Learning and Data Science (2026)
 - Boot.dev Learn SQL (2024)  
 - Boot.dev Learn File Servers & CDNs with S3 and CloudFront (2025)  
 - Boot.dev Learn HTTP Clients/Servers in Go (2025)  
 - Boot.dev Learn Docker (2025)  
 - Boot.dev Learn CI/CD with GitHub Actions, Docker, and Go (2025)  
-- Boot.dev Learn Memory Management in C (2025)
 
 ---
 
