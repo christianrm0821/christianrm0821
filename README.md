@@ -1,6 +1,6 @@
 ## 👋 Data/Business Analyst
 
-With a strong foundation in mathematics and computer science from UC San Diego. Currently pursuing an MS in Analytics at Georgia Tech. I enjoy solving real-world problems through code—whether that’s building efficient backend tools or analyzing data for actionable insights.
+I have a strong foundation in mathematics and computer science from UC San Diego and am currently pursuing an MS in Analytics at Georgia Tech. I enjoy solving real-world problems through code—whether that’s building efficient backend tools or analyzing data for actionable insights.
 
 I have hands-on experience with Go, Python, C++, SQL, Docker, AWS, Linux, and PostgreSQL, and am passionate about continuous learning and growth. My projects include:
 
