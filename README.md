@@ -1,4 +1,4 @@
-## 👋 Data/Business Analyst
+## 👋 Data Analyst
 
 I have a strong foundation in mathematics and computer science from UC San Diego and am currently pursuing an MS in Analytics at Georgia Tech. I enjoy solving real-world problems through code—whether that’s building efficient backend tools or analyzing data for actionable insights.
 
